@@ -1,0 +1,31 @@
+# TILTED DEFAULT
+#1,2
+#2,1
+#-1,-2
+#-2,-1
+# Remove the "#" before the number sets (but not the words) to use other rules of drawing, and
+# After you remove the "#"s before certain rule sheets, remember to add "#"s before the Rules you are not going to use!!!
+# 
+# KNIGHT:
+#2,1
+#1,2
+#-1,2
+#2,-1
+#-2,1
+#1,-2
+#-1,-2
+#-2,-1
+#ANCIENT ASIAN WINDOW:
+#0,-1
+#0,-2
+#0,1
+#0,2
+#1,0
+#2,0
+#-1,0
+#-2,0
+#DEFAULT (1 LINE MAZE):
+#1,0
+#-1,0
+#0,1
+#0,-1
